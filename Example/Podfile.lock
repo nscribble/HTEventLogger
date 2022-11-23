@@ -1,0 +1,16 @@
+PODS:
+  - HTEventLogger (0.1.0)
+
+DEPENDENCIES:
+  - HTEventLogger (from `../`)
+
+EXTERNAL SOURCES:
+  HTEventLogger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HTEventLogger: a45dc67b42e062f86f5b348b16331fb627516739
+
+PODFILE CHECKSUM: 40f016af2db4101fd28f1d2152fcde9fdad9caa8
+
+COCOAPODS: 1.11.3
